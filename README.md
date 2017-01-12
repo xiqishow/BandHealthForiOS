@@ -9,3 +9,7 @@ More information:
 
 http://developer.microsoftband.com/
 http://lbsyun.baidu.com/
+
+Apache License V2.0
+
+@xiqishow 2017 commit
