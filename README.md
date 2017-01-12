@@ -1,4 +1,7 @@
 # BandHealthForiOS
+
+ ![image](https://github.com/xiqishow/BandHealthForiOS/blob/master/screenshots/1.jpg)
+
 A simple app for Microsoft Band 1/2, the user in China could see the tracer via BaiduMap
 
 You can find a introduce snapshot form http://www.app111.com/info/1071013907/ ,but it is offline from App Store.
