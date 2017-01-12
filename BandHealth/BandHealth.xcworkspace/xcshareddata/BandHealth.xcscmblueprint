@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c767fd65-7e59-d8e2-22ce-ce57b7db7bff",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c767fd65-7e59-d8e2-22ce-ce57b7db7bff" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c767fd65-7e59-d8e2-22ce-ce57b7db7bff" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D437D64-FA80-44F4-B992-4F7876C9D25B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c767fd65-7e59-d8e2-22ce-ce57b7db7bff" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BandHealth",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/BandHealth\/BandHealth.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xiqishow\/BandHealthForiOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c767fd65-7e59-d8e2-22ce-ce57b7db7bff"
+    }
+  ]
+}
